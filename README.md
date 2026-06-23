@@ -81,17 +81,6 @@ predict_match("Brazil", "Germany", stage="Final")
 ```
 
 ---
+## NOTE
+I just wanna clear that my model's accuracy is low, cuz in reality its hard to predict sports it depends on too many factors and I have considered some here. Thank you for reading this
 
-## Setup
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-jupyter notebook "clean_FIFA_match_outcome_predictor.ipynb"
-```
-
----
-
-## Author
-
-**Shivang** · B.Sc. Physical Science with Electronics, University of Delhi  
-[GitHub →](https://github.com/Shivang-27/data_prediction_models)
