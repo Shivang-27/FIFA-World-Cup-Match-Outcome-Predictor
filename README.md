@@ -31,7 +31,7 @@ Historical FIFA World Cup match data spanning ~50 years (1974–2022), covering 
 ## Model
 
 ```
-Algorithm  : Random Forest (200 trees, max_depth=6)
+Algorithm  : Random Forest
 Train/Test : 80% / 20%
 ```
 
@@ -79,8 +79,3 @@ predict_match("Brazil", "Germany", stage="Final")
 #   Away win :  22.4%
 #   Draw     :  18.1%
 ```
-
----
-## NOTE
-I just wanna clear that my model's accuracy is low, cuz in reality its hard to predict sports it depends on too many factors and I have considered some here. Thank you for reading this
-
